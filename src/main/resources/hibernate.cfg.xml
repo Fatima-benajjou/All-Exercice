@@ -10,7 +10,8 @@
         <mapping class ="org.example.tp_projet.entity.Nourriture"/>
         <mapping class ="org.example.tp_projet.entity.Client"/>
         <mapping class ="org.example.tp_projet.entity.Article"/>
-<!--        <mapping class ="org.example.tp_projet.entity.Vente"/>-->
+        <mapping class ="org.example.tp_projet.entity.Vente"/>
+        <mapping class ="org.example.tp_projet.entity.LigneVente"/>
 
 
     </session-factory>
